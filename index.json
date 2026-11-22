@@ -1,0 +1,76 @@
+{
+ "format": 1,
+ "apps": [
+  {
+   "id": "hello-cube",
+   "name": "Hello Cube",
+   "version": "1.0.0",
+   "author": "CardboardXR",
+   "description": "A cube turns in front of you. Look at it and pinch to change its colour. The smallest app there is: start here.",
+   "icon": "view_in_ar",
+   "entry": "main.lua",
+   "api": 1,
+   "files": [
+    {
+     "path": "app.json",
+     "sha256": "65f85061538e7a87f84f0ec02e990b7d1f229087ad484f1ff5bcc892e011c2fe",
+     "size": 289
+    },
+    {
+     "path": "main.lua",
+     "sha256": "ce8d98f7d6ed0b9c5ea81d1c026498274f82dcd2c98cd0a3a808efb6f75a9d30",
+     "size": 863
+    }
+   ]
+  },
+  {
+   "id": "metronome",
+   "name": "Metronome",
+   "version": "1.0.0",
+   "author": "CardboardXR",
+   "description": "A metronome in a panel: a tempo slider, start and stop, and an accent on the first beat of four. Remembers your tempo. Shows panels, timers and sound.",
+   "icon": "timer",
+   "entry": "main.lua",
+   "api": 1,
+   "files": [
+    {
+     "path": "app.json",
+     "sha256": "bfea8998d1862509be59c5711c9386f1fcf94126a59a0e3caf03ae6ab894a406",
+     "size": 321
+    },
+    {
+     "path": "main.lua",
+     "sha256": "4fadac21b37623f63a67cee1bb5efa678be12735107af1851b8cccad972a1807",
+     "size": 957
+    }
+   ]
+  },
+  {
+   "id": "orb-pop",
+   "name": "Orb Pop",
+   "version": "1.0.0",
+   "author": "CardboardXR",
+   "description": "Orbs appear around you. Look at one and pinch to pop it before it fades. Keeps your best score. Shows how an app splits into several files.",
+   "icon": "bolt",
+   "entry": "main.lua",
+   "api": 1,
+   "files": [
+    {
+     "path": "app.json",
+     "sha256": "2b5d606561d3adbe7bc8e1caa7da83e9a260246ffd8c694db17952c2c698cfbd",
+     "size": 305
+    },
+    {
+     "path": "main.lua",
+     "sha256": "673afb12dfeea8b6b3d22bb5b23adb37fb98f0efb0820b7d68ed13436cafc01c",
+     "size": 1343
+    },
+    {
+     "path": "util.lua",
+     "sha256": "f2ac1718f4d578e913aeb8bb93f03e580952940448f4616d92c9763323c51450",
+     "size": 842
+    }
+   ]
+  }
+ ]
+}
