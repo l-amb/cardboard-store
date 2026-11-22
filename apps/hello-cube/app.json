@@ -1,0 +1,10 @@
+{
+  "id": "hello-cube",
+  "name": "Hello Cube",
+  "version": "1.0.0",
+  "author": "CardboardXR",
+  "description": "A cube turns in front of you. Look at it and pinch to change its colour. The smallest app there is: start here.",
+  "icon": "view_in_ar",
+  "entry": "main.lua",
+  "api": 1
+}
