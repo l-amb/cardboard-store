@@ -1,0 +1,10 @@
+{
+  "id": "metronome",
+  "name": "Metronome",
+  "version": "1.0.0",
+  "author": "CardboardXR",
+  "description": "A metronome in a panel: a tempo slider, start and stop, and an accent on the first beat of four. Remembers your tempo. Shows panels, timers and sound.",
+  "icon": "timer",
+  "entry": "main.lua",
+  "api": 1
+}
