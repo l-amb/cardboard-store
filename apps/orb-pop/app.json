@@ -1,0 +1,10 @@
+{
+  "id": "orb-pop",
+  "name": "Orb Pop",
+  "version": "1.0.0",
+  "author": "CardboardXR",
+  "description": "Orbs appear around you. Look at one and pinch to pop it before it fades. Keeps your best score. Shows how an app splits into several files.",
+  "icon": "bolt",
+  "entry": "main.lua",
+  "api": 1
+}
